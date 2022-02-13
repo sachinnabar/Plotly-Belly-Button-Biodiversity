@@ -1,12 +1,12 @@
 body {
 
-    color: white;
-    background-image: linear-gradient(to bottom right, lightyellow, lightblue);
+    color: black;
+    background-image: linear-gradient(to bottom right, white, lightblue);
     
 }
 
 .jumbotron {
-    background-image: url("../../Images/ Belly Button Bacteria.jpg");
+    background-image: url("C:/Users/Dell 17/Desktop/UFT/Plotly-Belly-Button-Biodiversity/Images/BBB");
     background-size: 100% 100%;
     text-align: center;
 }
