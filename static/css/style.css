@@ -1,12 +1,12 @@
 body {
 
-    color: black;
-    background-image: linear-gradient(to bottom right, white, lightblue);
+    color: orangered;
+    background-image: linear-gradient(to bottom right, lightyellow, lightblue);
     
 }
 
 .jumbotron {
-    background-image: url("C:/Users/Dell 17/Desktop/UFT/Plotly-Belly-Button-Biodiversity/Images/BBB");
-    background-size: 100% 100%;
+    background-image: url("../../Images/BBB.jpg");
+    background-attachment: 100% 100%;
     text-align: center;
 }
